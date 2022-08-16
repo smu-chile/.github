@@ -1,10 +1,4 @@
-<p align="left" style="text-align:left;">
-  <a href="https://www.smu.cl">
-    <img alt="SMU Chile" src="../img/smu-wide.png" width="1040"/>
-  </a>
-</p>
-
-<br>
+# SMU Chile
 
 <div style="text-align: justify;">
 SMU nace en diciembre de 2007 a partir de la adquisición de más de 60 cadenas de supermercados, siendo hoy la compañía chilena con mayor cobertura geográfica del país y la única cadena de supermercados presente en las 16 regiones del país. Nuestra estrategia multiformato nos permite satisfacer distintos hábitos de compra entregando las mejores soluciones y productos y el mejor servicio a nuestros clientes.
