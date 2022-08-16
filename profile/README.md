@@ -9,6 +9,8 @@ Hoy, SMU es el tercer actor de retail supermercadista en Chile. Este gran logro 
 </div>
 <br>
 
+## **Internal use**
+
 [Backend Template](https://github.com/smu-chile/backend-template)
 
 ## Licence
