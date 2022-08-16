@@ -2,7 +2,7 @@
 
 <p align="left" style="text-align:left;">
   <a href="https://www.smu.cl">
-    <img alt="SMU Chile" src="img/logo-smu-red.png" width="1040"/>
+    <img alt="SMU Chile" src="../img/logo-smu-red.png" width="1040"/>
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ## Licence
 
-The scripts and documentation in this project are released under the [MIT License](./LICENSE)
+The scripts and documentation in this project are released under the [MIT License](../LICENSE)
 ## Contributions
 
 Contributions are welcome! See [Contributor's Guide](../docs/contributors.md)
