@@ -13,8 +13,8 @@
 The scripts and documentation in this project are released under the [MIT License](./LICENSE)
 ## Contributions
 
-Contributions are welcome! See [Contributor's Guide](./docs/contributors.md)
+Contributions are welcome! See [Contributor's Guide](../docs/contributors.md)
 
 ## Code of Conduct
 
-👋 Be nice. See our [code of conduct](./docs/code_of_conduct.md)
+👋 Be nice. See our [code of conduct](../docs/code_of_conduct.md)

@@ -94,7 +94,7 @@ Helping out other users with their questions is an awesome way of contributing t
 - Try to refer to past issues with accepted answers as much as possible. Link to them from your replies
 - Be kind and patient with users. Often, folks who have run into confusing things might be upset or impatient. This is natural. If you feel uncomfortable in conversation with them, it's better to stay away or withdraw from the issue.
 
- > If some user is violating our code of conduct [standards](https://github.com/smu-chile/.github/blob/main/CODE_OF_CONDUCT.md#our-standards), refer to the [Enforcement](https://github.com/smu-chile/.github/blob/main/CODE_OF_CONDUCT.md#enforcement) section of the Code of Conduct to resolve the conflict
+ > If some user is violating our code of conduct [standards](https://github.com/smu-chile/.github/blob/feat/readme/docs/CODE_OF_CONDUCT.md#our-standards), refer to the [Enforcement](https://github.com/smu-chile/.github/blob/feat/readme/docs/CODE_OF_CONDUCT.md#enforcement) section of the Code of Conduct to resolve the conflict
  
 
 ## Review pull requests
