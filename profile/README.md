@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<br>
+
 SMU nace en diciembre de 2007 a partir de la adquisición de más de 60 cadenas de supermercados, siendo hoy la compañía chilena con mayor cobertura geográfica del país y la única cadena de supermercados presente en las 16 regiones del país. Nuestra estrategia multiformato nos permite satisfacer distintos hábitos de compra entregando las mejores soluciones y productos y el mejor servicio a nuestros clientes.
 
 Contamos con 505 tiendas y 8 centros de distribución en las principales ciudades del país.
