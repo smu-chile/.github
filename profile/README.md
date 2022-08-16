@@ -1,8 +1,6 @@
-# SMU Chile
-
 <p align="left" style="text-align:left;">
   <a href="https://www.smu.cl">
-    <img alt="SMU Chile" src="../img/logo-smu-red.png" width="1040"/>
+    <img alt="SMU Chile" src="../img/smu-wide.png" width="1040"/>
   </a>
 </p>
 
