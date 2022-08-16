@@ -13,11 +13,10 @@ Contamos con 505 tiendas y 8 centros de distribución en las principales ciudade
 
 Hoy, SMU es el tercer actor de retail supermercadista en Chile. Este gran logro es gracias al trabajo y la dedicación de sus más de 30 mil colaboradores, quienes día a día viven el servicio con entusiasmo y cercanía con el propósito de simplificarle la vida a los clientes.
 </div>
+<br>
+<br>
 
 [Backend Template](https://github.com/smu-chile/backend-template)
-
-<br>
-<br>
 
 ## Licence
 
