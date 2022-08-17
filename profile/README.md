@@ -10,6 +10,8 @@ Hoy, SMU es el tercer actor de retail supermercadista en Chile. Este gran logro 
 
 ## **Internal use**
 
+Los pipeline de **Integración Contínua** están habilitados y documentados en el repositorio [Github Pipelines](https://github.com/smu-chile/gh-reusable-workflows)
+
 [Backend Template](https://github.com/smu-chile/backend-template)
 
 ## Licence
