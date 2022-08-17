@@ -14,10 +14,10 @@ Hoy, SMU es el tercer actor de retail supermercadista en Chile. Este gran logro 
 
 ## Licence
 
-The scripts and documentation in this project are released under the [MIT License](../LICENSE)
+The scripts and documentation in this project are released under the [MIT License](https://github.com/smu-chile/.github/blob/master/LICENSE)
 ## Contributions
 
-Contributions are welcome! See [Contributor's Guide](../docs/contributors.md)
+Contributions are welcome! See [Contributor's Guide](https://github.com/smu-chile/.github/blob/master/docs/contributors.md)
 
 ## Code of Conduct
 
