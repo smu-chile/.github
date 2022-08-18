@@ -10,7 +10,11 @@ Hoy, SMU es el tercer actor de retail supermercadista en Chile. Este gran logro 
 
 ## **Internal use**
 
-Los pipeline de **Integración Contínua** están habilitados y documentados en el repositorio [Github Pipelines](https://github.com/smu-chile/gh-reusable-workflows)
+Los pipeline de **Integración Contínua** están habilitados y documentados en el repositorio [Github Pipelines](https://github.com/smu-chile/gh-reusable-workflows), donde te mostramos como puedes utilizarlos y referenciarlos. De momento los Action permitidos son:
+
+```
+actions/setup-node@v3, actions/checkout@v2, hashicorp/setup-terraform@v2
+```
 
 [Backend Template](https://github.com/smu-chile/backend-template)
 
