@@ -16,7 +16,10 @@ Los pipeline de **Integración Contínua** están habilitados y documentados en 
 actions/setup-node@v3, actions/checkout@v2, hashicorp/setup-terraform@v2
 ```
 
-[Backend Template](https://github.com/smu-chile/backend-template)
+## Templates 🔖
+Las plantillas se utilizan para generar nuevos repositorios con una estructura determinada con un solo click, las plantillas que actualmente se encuentran disponibles para los miembros de SMU son:
+- [Backend Template](https://github.com/smu-chile/backend-template) Plantilla para el desarrollo de microservicios con arquitectura hexagonal
+- [Package Template](https://github.com/smu-chile/pkg-backend-template) Plantilla para la creación de paquetes
 
 ## Licence
 
