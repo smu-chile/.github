@@ -25,6 +25,10 @@ Las plantillas se utilizan para generar nuevos repositorios con una estructura d
 
 - [node-smu](https://github.com/smu-chile/node-smu) Imagen base y documentación para su uso
 
+```
+FROM ghcr.io/smu-chile/node-smu:v1.0.0
+```
+
 ## Licence
 
 The scripts and documentation in this project are released under the [MIT License](https://github.com/smu-chile/.github/blob/master/LICENSE)
