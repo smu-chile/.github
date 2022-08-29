@@ -22,12 +22,8 @@ Las plantillas se utilizan para generar nuevos repositorios con una estructura d
 - [Package Template](https://github.com/smu-chile/pkg-backend-template) Plantilla para la creación de paquetes
 
 ## Imagen base 
-
-- [node-smu](https://github.com/smu-chile/node-smu) Imagen base y documentación para su uso
-
-```
-FROM ghcr.io/smu-chile/node-smu:v1.0.0
-```
+Se generó una imagen base para la creación de los contenedores de los distintos servicios de SMU 
+- [node-smu](https://github.com/smu-chile/node-smu) Imagen base y documentación para su uso.
 
 ## Licence
 
