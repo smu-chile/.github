@@ -21,6 +21,10 @@ Las plantillas se utilizan para generar nuevos repositorios con una estructura d
 - [Backend Template](https://github.com/smu-chile/backend-template) Plantilla para el desarrollo de microservicios con arquitectura hexagonal
 - [Package Template](https://github.com/smu-chile/pkg-backend-template) Plantilla para la creación de paquetes
 
+## Imagen base 
+
+- [node-smu](https://github.com/smu-chile/node-smu) Imagen base y documentación para su uso
+
 ## Licence
 
 The scripts and documentation in this project are released under the [MIT License](https://github.com/smu-chile/.github/blob/master/LICENSE)
