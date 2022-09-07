@@ -13,7 +13,76 @@ Hoy, SMU es el tercer actor de retail supermercadista en Chile. Este gran logro 
 Los pipeline de **Integración Contínua** están habilitados y documentados en el repositorio [Github Pipelines](https://github.com/smu-chile/gh-reusable-workflows), donde te mostramos como puedes utilizarlos y referenciarlos. De momento los Action permitidos son:
 
 ```
-actions/setup-node@*, actions/checkout@*, hashicorp/setup-terraform@*, github/codeql-action/init@*, github/codeql-action/autobuild@*, github/codeql-action/analyze@*, hadolint/hadolint-action@*, smu-chile/aws-ecr-policy-action@*, smu-chile/gh-action-huawei-swr-policy@*, smu-chile/gh-reusable-workflows/.github/workflows/backend.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/code-security.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/general.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/linter.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/npm-audit.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/npm-registry.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/pkg-build.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/prisma-build-time-front.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/prisma-build-time.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/secure-gh-upload-container-build.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/terraform.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/upload-container-build-time-front.yml@*, smu-chile/gh-reusable-workflows/.github/workflows/upload-container-build-time.yml@*, smu-chile/gh-action-consul-to-env-file@*, actions/download-artifact@*, UnicornGlobal/trufflehog-actions-scan@*, anchore/scan-action@*, SonarSource/sonarcloud-github-action@*, PaloAltoNetworks/prisma-cloud-scan@*, oke-py/npm-audit-action@*, docker/login-action@*, bridgecrewio/checkov-action@*, hashicorp/setup-terraform@*, actions/github-script@*, docker/setup-buildx-action@*, docker/build-push-action@*, ghe-actions/dockerfile-validator@*, docker/build-push-action@*, docker/metadata-action@*, anchore/sbom-action@*, amannn/action-semantic-pull-request@*, snyk/actions/docker@*, trufflesecurity/trufflehog@*, smu-chile/node-smu/.github/workflows/action-linter.yml@*, smu-chile/node-smu/.github/workflows/trufflehog.yml@*, smu-chile/node-smu/.github/workflows/docker-linter.yml@*, smu-chile/node-smu/.github/workflows/anchore.yml@*, smu-chile/node-smu/.github/workflows/snyk.yml@*, smu-chile/node-smu/.github/workflows/trivy.yml@*, smu-chile/node-smu/.github/workflows/PrismaCloud.yml@*, smu-chile/node-smu/.github/workflows/docker-sbom.yml@*, aquasecurity/trivy-action@*, haythem/public-ip@*, actions/upload-artifact@*, smu-chile/unit-test-action@*, styfle/cancel-workflow-action@*, bridgecrewio/bridgecrew-action@*, github/codeql-action/upload-sarif@*, aquasecurity/tfsec-sarif-action@*, 
+PaloAltoNetworks/prisma-cloud-scan@*,
+SonarSource/sonarcloud-github-action@*,
+UnicornGlobal/trufflehog-actions-scan@*,
+actions/checkout@*,
+actions/download-artifact@*,
+actions/github-script@*,
+actions/setup-node@*,
+actions/upload-artifact@*,
+amannn/action-semantic-pull-request@*,
+anchore/sbom-action@*,
+anchore/scan-action@*,
+aquasecurity/tfsec-sarif-action@*,
+aquasecurity/trivy-action@*,
+bridgecrewio/bridgecrew-action@*,
+bridgecrewio/checkov-action@*,
+docker/build-push-action@*,
+docker/build-push-action@*,
+docker/login-action@*,
+docker/metadata-action@*,
+docker/setup-buildx-action@*,
+ghe-actions/dockerfile-validator@*,
+github/codeql-action/analyze@*,
+github/codeql-action/autobuild@*,
+github/codeql-action/init@*,
+github/codeql-action/upload-sarif@*,
+google-github-actions/auth@v0.8.1,
+hadolint/hadolint-action@*,
+hashicorp/setup-terraform@*,
+hashicorp/setup-terraform@*,
+haythem/public-ip@*,
+oke-py/npm-audit-action@*,
+prisma-cloud-shiftleft/iac-scan-action@v1,
+smu-chile/aws-ecr-policy-action@*,
+smu-chile/gh-action-consul-to-env-file@*,
+smu-chile/gh-action-huawei-swr-policy@*,
+smu-chile/gh-reusable-workflows/.github/workflows/backend.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/code-security.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/general.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/linter.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/npm-audit.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/npm-registry.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/pkg-build.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/prisma-build-time-front.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/prisma-build-time.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/secure-gh-upload-container-build.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/terraform.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/upload-container-build-time-front.yml@*,
+smu-chile/gh-reusable-workflows/.github/workflows/upload-container-build-time.yml@*,
+smu-chile/node-smu/.github/workflows/PrismaCloud.yml@*,
+smu-chile/node-smu/.github/workflows/action-linter.yml@*,
+smu-chile/node-smu/.github/workflows/anchore.yml@*,
+smu-chile/node-smu/.github/workflows/docker-linter.yml@*,
+smu-chile/node-smu/.github/workflows/docker-sbom.yml@*,
+smu-chile/node-smu/.github/workflows/snyk.yml@*,
+smu-chile/node-smu/.github/workflows/trivy.yml@*,
+smu-chile/node-smu/.github/workflows/trufflehog.yml@*,
+smu-chile/unit-test-action@*,
+snyk/actions/docker@*,
+styfle/cancel-workflow-action@*,
+trufflesecurity/trufflehog@*
+```
+Esta lista se irá enriqueciendo y actualizando en la medida que las versiones más recientes cumplan con las necesidades de los distintos equipos. Los miembros de SMU a su vez pueden estar al tanto de los nuevos despliegues de los actions en sus proyectos al implementar un **dependabot.yml** en sus directorios .github para ser notificados en caso de detectar versiones nuevas:
+
+```
+version: 2
+updates:
+- package-ecosystem: "github-actions"
+  directory: "/"
+  schedule:
+    interval: "daily"
 ```
 
 ## Templates 🔖
