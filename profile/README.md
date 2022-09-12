@@ -27,7 +27,7 @@ updates:
 ```
 Este **dependabot.yml** lo puedes encontrar implementado en el repositorio [Github Pipelines](https://github.com/smu-chile/gh-reusable-workflows/tree/master/.github), este levantará un pull request cada vez que encuentre una versión más reciente de los actions utilizados en el proyecto:
 
-<img src="pr-example.png" alt="dependabot PR example" width="500" height="600">
+![alt text](https://github.com/smu-chile/.github/blob/feat/whitelist-doc/pr-example.png?raw=true)
 
 ## Templates 🔖
 Las plantillas se utilizan para generar nuevos repositorios con una estructura determinada con un solo click, las plantillas que actualmente se encuentran disponibles para los miembros de SMU son:
