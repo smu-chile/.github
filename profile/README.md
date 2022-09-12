@@ -28,7 +28,7 @@ updates:
 Este **dependabot.yml** lo puedes encontrar implementado en el repositorio [Github Pipelines](https://github.com/smu-chile/gh-reusable-workflows/tree/master/.github), este levantará un pull request cada vez que encuentre una versión más reciente de los actions utilizados en el proyecto:
 
 <p align="left" style="text-align:left;">
-    <img alt="Dependabot PR Example" src="img/pr-example.png"/>
+    <img alt="Dependabot PR Example" src="img/smu-wide.png"/>
 </p>
 
 ## Templates 🔖
